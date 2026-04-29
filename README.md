@@ -1,2 +1,5 @@
 # learn-terraform
-Learn terraform
+Learn Terraform
+
+I will use this repository for learning Terraform. 
+
